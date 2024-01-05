@@ -1,7 +1,8 @@
 repo_name: mauriliofilho/lineoncode
 report_id: 8841fb4992c4a6575b6d2dbccf6a4cc7
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-30T15:47:43+00:00'
+timestamp: '2024-01-05T08:31:04+00:00'
 requested_by: mauriliofilho
 provider: github
 branch: master
@@ -15,4 +16,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/mauriliofilho/lineoncode
   detection_source: Repo Metadata
